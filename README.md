@@ -1,7 +1,7 @@
 ### Olá!Me chamo Paulo Cesar 👋
 Cearense nascido em Fortaleza
 
-Trabalho na Makro engenharia
+Trabalho na Makro Engenharia
 
 Atualmente trabalho como mecânico de maquinas pesadas.
 
