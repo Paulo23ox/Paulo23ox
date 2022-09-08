@@ -26,3 +26,5 @@ Formado em técnico em mecâtronica pelo Cepep
 
 
 Estudando full stack na Digital College
+
+Aprendendo programação
