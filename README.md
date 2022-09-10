@@ -21,6 +21,9 @@ Temho enteresse em assuntos como programação, economia, atualidades e investim
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo23ox&theme=dracula)](https://git.io/streak-stats" width='400px'/>
 
 
+  <a href="https://www.linkedin.com/in/paulo-cesar-8343716b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
 
 
 
