@@ -1,30 +1,53 @@
-### Olá! Me chamo Paulo Cesar 👋
-Cearense nascido em Fortaleza
+## Olá! Seja bem vindo <img src="https://slackmojis.com/emojis/10096-laptop_parrot/download" width="30"/>
 
-Trabalho na Makro Engenharia
+"__Escolha construir a si mesmo , busque aprender para evoluir__"
 
-Atualmente trabalho como mecânico de maquinas pesadas.
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Esse sou eu:
 
+Me chamo **Paulo Cesar** tenho 33 anos, brasileiro nascido no estado do Ceará na cidade de Fortaleza.
+Atualmete trabalho como mecânico de maquinas pesadas e estou estudando programação em busca de uma transição de carreira
 
-<!--
-**Paulo23ox/Paulo23ox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nordestino de Fortaleza-CE, Brasil.
 
-Here are some ideas to get you started:
+Formado em mecâtronica: Cepep.
 
-- 🔭  ...
-- 🌱 I’m currently learning ...
+Estudando Programação: Digital College.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Formado em técnico em mecâtronica pelo Cepep
+Futebol na veia.
+
+Temho enteresse em assuntos como programação, economia, atualidades e investimentos.
+
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo23ox&theme=dracula)](https://git.io/streak-stats" width='400px'/>
 
 
 
-Estudando full stack na Digital College
 
-Aprendendo programação
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
