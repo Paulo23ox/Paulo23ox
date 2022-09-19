@@ -10,7 +10,7 @@ Formado na universidade de Purdue, Highland High School
 ---
 
 
-## Feito historico
+## Feito histórico
 Em 1995 o programador americano criou a primeira página colaborativa na internet, a partir de um sistema inovador, que permitia a edição de conteúdo por diferentes usuários, nascia o conceito que se difundiria por toda a rede. 
 O software que permitiu a inovação se chamava WikiWikiWeb. É a junção do termo havaiano wiki, quer dizer rápido, com a palavra web. 
 A colaboração ampliou a interação entre usuários da internet. A partir do projeto, surgiram outras iniciativas importantes utilizando o conceito “wiki”, caso da Wikipedia, a maior enciclopédia on-line.
