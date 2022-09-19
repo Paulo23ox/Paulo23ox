@@ -1,4 +1,4 @@
-<a href="https://martinfowler.com"><img alt="Martin Fowler" src="https://veja.abril.com.br/wp-content/uploads/2016/05/ward-cunningham-original.jpeg?quality=70&strip=info&resize=850,567" align="" width="25%"></a>
+<a href="https://martinfowler.com"><img alt="Martin Fowler" src="https://veja.abril.com.br/wp-content/uploads/2016/05/ward-cunningham-original.jpeg?quality=70&strip=info&resize=850,567" align="" width="50%"></a>
 
 
 # Ward Cunningh
