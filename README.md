@@ -21,11 +21,8 @@ Temho enteresse em assuntos como programação, economia, atualidades e investim
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo23ox&theme=dracula)](https://git.io/streak-stats" width='400px'/>
 
 
-  <a href="https://www.linkedin.com/in/paulo-cesar-8343716b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-
-
+  <a href="https://www.linkedin.com/in/paulo-cesar-8343716b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=red" target="_blank"></a>
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=yellow)](https://www.freecodecamp.org/PauloCesarDev).
 
 
 
